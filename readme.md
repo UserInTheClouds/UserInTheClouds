@@ -18,10 +18,6 @@ I'm a 2nd-year B.Tech student.
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/UserInTheClouds">
-    <img src="https://github-readme-stats.vercel.app/api?username=UserInTheClouds&amp;show_icons=true&amp;theme=radical" alt="Harsh's GitHub Stats" />
-  </a>
-</div>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=UserInTheClouds&show_icons=true&theme=radical)
