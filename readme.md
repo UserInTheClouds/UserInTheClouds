@@ -1,4 +1,4 @@
-# Hi, I'm Harsh! 👋
+# Hi, I'm Harsh
 
 I'm a 2nd-year B.Tech student.
 
@@ -20,4 +20,3 @@ I'm a 2nd-year B.Tech student.
 
 
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=UserInTheClouds&theme=radical)
