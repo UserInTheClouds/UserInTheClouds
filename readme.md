@@ -1,6 +1,6 @@
 # Hi, I'm Harsh
 
-I'm a B.Tech AI&DS student. Currently focusing on Full Stack Web Development and Data Analysis.
+I'm a B.Tech AI&DS student. Currently focusing on Full Stack Web Development.
 
 ## 💻 Tech Stack
 
